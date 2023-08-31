@@ -1,0 +1,32 @@
+{
+  "cruddata": [
+    {
+      "id": 2,
+      "name": "Kundan Kumar",
+      "Roll_No": "2106144",
+      "email": "kundank.ug21.cs@nitp.ac.in",
+      "phone": "7864764767486"
+    },
+    {
+      "id": 3,
+      "name": "Shruti Mishra",
+      "Roll_No": "2106123",
+      "email": "shrutim.ug21.cs@nitp.ac.in",
+      "phone": "389638630887"
+    },
+    {
+      "id": 4,
+      "name": "Jaspal Singh",
+      "Roll_No": "2106152",
+      "email": "jaspals.ug21.cs@nitp.ac.in",
+      "phone": "088963228157"
+    },
+    {
+      "id": 5,
+      "name": "dafesrdgfh ",
+      "Roll_No": "64894",
+      "email": "egrsdgfde58885@gmail.com",
+      "phone": "6546848"
+    }
+  ]
+}
